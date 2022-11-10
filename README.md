@@ -1,5 +1,7 @@
 # SecuringWebApiUsingApiKey
 
+Status: Complete
+
 Based on this web article: [Secure ASP.NET Core Web API using API Key Authentication](http://codingsonata.com/secure-asp-net-core-web-api-using-api-key-authentication/)
 
 Shows how to secure an API using below methods:
